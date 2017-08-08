@@ -1,0 +1,7 @@
+.displayWalrus{
+  cursor: pointer;
+  color: #08e4e3;
+}
+.displayWalrus:hover{
+  text-decoration: underline;
+}
