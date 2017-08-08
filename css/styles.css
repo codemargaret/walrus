@@ -1,7 +1,10 @@
-.displayWalrus{
+.hideWalrus {
+  display: none;
+}
+.clickable{
   cursor: pointer;
   color: #08e4e3;
 }
-.displayWalrus:hover{
+.clickable:hover{
   text-decoration: underline;
 }
